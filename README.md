@@ -1,2 +1,2 @@
-# assignments
+# Assignments
 e-DAC course assignments
